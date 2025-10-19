@@ -1,6 +1,4 @@
-# 🏨 HotelApp - Facade Design Pattern
-
-## 📖 Problem Statement
+# Simplified Hotel Management System
 
 The HotelApp needs to manage various hotel services for guest check-in and check-out.  
 These services include **valet parking for vehicles**, **room cleaning**, and **handling luggage carts**.  
